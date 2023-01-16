@@ -11,4 +11,4 @@ Feature: Cheakout product to cart
     Examples: 
       | shortname | name   |
       | Tom       | Tomato |
-      | Bea       | Beans  |
+      | Bea       | Bean  |
